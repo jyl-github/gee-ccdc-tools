@@ -775,6 +775,10 @@ exports = {
   tcTrans: tcTrans,
   calcNDFI: calcNDFI,
   makeAutoGrid: makeAutoGrid,
+  prepareL8:prepareL8,
+  prepareL7:prepareL7,
+  prepareL4L5:prepareL4L5,
+ 
 }
 
 
